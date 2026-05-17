@@ -400,7 +400,7 @@ export default function Home() {
           <div className="grid lg:grid-cols-2 gap-14 items-center">
             <div className="reveal-left">
               <div className=" rounded-2xl  flex items-center justify-center">
-                <img src="/public/images/home/home2.png" alt="" srcset="" />
+                <img src="/images/home/home2.png" alt="" srcset="" />
               </div>
             </div>
             <div className="reveal-right">
